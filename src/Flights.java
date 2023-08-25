@@ -1,3 +1,4 @@
+// Developed by Zamir Khan, for Data Structures and Algorithms
 public class Flights {
     private String city;
     private double cost;
