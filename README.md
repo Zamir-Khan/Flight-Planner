@@ -24,7 +24,7 @@ The `Path` class defines a path or route between multiple destinations. It encap
 
 1. **Input Data Preparation**: Prepare two input files, namely "FlightPlan.txt" and "FlightInfo.txt". The "FlightPlan.txt" file contains the flight plans, while "FlightInfo.txt" holds the necessary information about the flights.
 
-2. **Compilation**: Compile the `main.java`, `Flights.java`, and `Path.java` files to generate the executable.
+2. **Compilation**: Compile the `Main.java`, `Flights.java`, and `Path.java` files to generate the executable.
 
 3. **Execution**: Run the compiled program. It will read the flight plans from "FlightPlan.txt" and utilize information from "FlightInfo.txt" to generate optimized routes.
 
